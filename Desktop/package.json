@@ -1,0 +1,25 @@
+{
+    "name": "Tev",
+    "version": "1.0.0",
+    "description": "The world's most human-like AI for coding?",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron .",
+        "build": "electron-builder"
+    },
+    "build": {
+        "appId": "com.cohendacool.tev",
+        "productName": "Tev",
+        "win": {
+            "target": "nsis"
+        },
+        "files": [
+            "**/*",
+            "../AI/tev-server.exe",
+            "../AI/personality.txt",
+            "../AI/.env",
+            "../Website/**/*",
+            "../Resources/**/*"
+        ]
+    }
+}
