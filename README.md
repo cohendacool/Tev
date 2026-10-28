@@ -1,4 +1,4 @@
-![GitHub Logo](https://githubassets.com)
+![Tev Logo]([https://githubassets.com](https://github.com/cohendacool/Tev/blob/2c83fe3fd229dc80b046b30cbe78eced368fa676/Resources/Favicon.png))
 
 ## Welcome to Tev!
 
