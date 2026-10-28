@@ -1,4 +1,4 @@
-Resources/Favicon.png
+![GitHub Logo](https://githubassets.com)
 
 ## Welcome to Tev!
 
