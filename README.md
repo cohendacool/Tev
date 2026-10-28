@@ -1,3 +1,5 @@
+Resources/Favicon.png
+
 ## Welcome to Tev!
 
 Tev is a one of a kind AI chatbot with 2 main goals, to excel in tech and to sound very human.
